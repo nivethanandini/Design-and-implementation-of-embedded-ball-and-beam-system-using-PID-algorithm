@@ -1,0 +1,2 @@
+# Design-and-implementation-of-embedded-ball-and-beam-system-using-PID-algorithm
+The idea is to tune the PID parameters for set point tracking and for disturbance rejection to obtain a stable system.A microcontroller (ARDUINO UNO) integrated with digital servo motor together tunes the PID parameters with the help of an Ultrasonic Sensor.Arduino Microcontoller is embedded with PID library and the code to drive the servo.On receiving the signal from ultrasonic sensor reference to the set point ,the ball is balanced in the beam at the desired position with minimum delay.
